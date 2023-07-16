@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Priti
+
+- 👋 Hi, I’m Priti Mondal!
 - 👀 I’m a huge tech,Quantum Physics enthusiast
-- also I am a skilled yogini!
+ also I am a skilled yogini,I also possess good communication skills(public speaker),immensely passionate about tech!
 - 🌱 I’m currently learning various frontend frameworks
 - 💞️ I’m looking to collaborate on frontend projects
   
