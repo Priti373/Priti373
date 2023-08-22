@@ -1,5 +1,5 @@
-
-- 👋 Hi, I’m Priti Mondal!
+HELLO EVERYONE 😊!
+- 👋  I’m Priti Mondal!
 - 👀 I’m a huge tech,Quantum Physics enthusiast
  also I am a skilled yogini,I also possess good communication skills(public speaker),immensely passionate about tech!
 - 🌱 I’m currently learning various frontend frameworks
