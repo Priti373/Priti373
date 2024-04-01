@@ -3,15 +3,11 @@ I am Priti Mondal!
 
 🔭 • I’m currently working on full stack web development.
 
-
 👯 • I’m looking to collaborate on web dev projects .
-
 
 🌱 • I’m currently learning node.js and the backend frameworks.
 
-
 💬 • Ask me about software development projects and collboration to contibute and learn more.
-
 
 ⚡ • Fun fact--I am easily adaptable and fun to work with and outgoing but sometimes highly introvert.
 
