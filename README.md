@@ -1,11 +1,11 @@
 Hello everyone!😁
 I am Priti Mondal!
 
-🔭 I’m currently working on full stack web development.
-👯 I’m looking to collaborate on web dev projects .
-🌱 I’m currently learning node.js and the backend frameworks.
-💬 Ask me about software development projects and collboration to contibute and learn more
-⚡ Fun fact--I am easily adaptable and fun to work with and outgoing but sometimes highly introvert.
+🔭 • I’m currently working on full stack web development.
+👯 • I’m looking to collaborate on web dev projects .
+🌱 • I’m currently learning node.js and the backend frameworks.
+💬 • Ask me about software development projects and collboration to contibute and learn more.
+⚡ • Fun fact--I am easily adaptable and fun to work with and outgoing but sometimes highly introvert.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Priti4510) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/priti-mondal-7a4980220) 
 
