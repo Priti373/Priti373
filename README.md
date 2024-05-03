@@ -5,7 +5,7 @@ I am Priti Mondal!
 
 👯 • I’m looking to collaborate on web dev projects .
 
-🌱 • I’m currently learning node.js and the backend frameworks.
+🌱 • I’m currently learning full stack next.js .
 
 💬 • Ask me about software development projects and collboration to contibute and learn more.
 
