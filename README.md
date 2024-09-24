@@ -22,6 +22,7 @@ I am Priti Mondal!
 ![](https://github-readme-stats.vercel.app/api?username=Priti373&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priti373&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priti373&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![An image of @priti373's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priti373)](https://holopin.io/@priti373)
 
 ---
 
