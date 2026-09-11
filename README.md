@@ -1,7 +1,7 @@
 Hello everyone!😁
 I am Priti Mondal!
 
-🔭 • I’m currently working on full stack web development.
+🔭 • I’m currently working on cloud engineering.
 
 👯 • I’m looking to collaborate on web dev projects .
 
